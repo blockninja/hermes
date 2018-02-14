@@ -28,7 +28,7 @@ func (dt *Flat) HTMLTemplate() string {
       height: 100%;
       margin: 0;
       line-height: 1.4;
-      background-color: #2c3e50;
+      background-color: #222222;
       color: #74787E;
       -webkit-text-size-adjust: none;
     }
@@ -41,7 +41,7 @@ func (dt *Flat) HTMLTemplate() string {
       width: 100%;
       margin: 0;
       padding: 0;
-      background-color: #2c3e50;
+      background-color: #222222;
     }
     .email-content {
       width: 100%;
@@ -65,7 +65,7 @@ func (dt *Flat) HTMLTemplate() string {
       text-shadow: 0 1px 0 white;
     }
     .email-logo {
-      max-height: 50px;
+      max-height: 200px;
     }
     /* Body ------------------------------ */
     .email-body {
