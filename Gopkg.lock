@@ -44,6 +44,12 @@
   revision = "63248bc9adbcc063665823c90e39eaf58aca7a8b"
 
 [[projects]]
+  name = "github.com/matcornic/hermes"
+  packages = ["."]
+  revision = "23ab47deb5a321481be0c4936b810c1420da2262"
+  version = "1.1.1"
+
+[[projects]]
   name = "github.com/mattn/go-runewidth"
   packages = ["."]
   revision = "9e777a8366cce605130a531d2cd6363d07ad7317"
@@ -106,6 +112,6 @@
 [solve-meta]
   analyzer-name = "dep"
   analyzer-version = 1
-  inputs-digest = "74f494e631dfdf63c96d26579f7f802e52dfe70480f1b3cfc03ef331eb223dea"
+  inputs-digest = "1aa91bbbfd3531461e6dea1aab1466a566f72ce3c130b9ba12e8187efcf4be3f"
   solver-name = "gps-cdcl"
   solver-version = 1
