@@ -139,8 +139,8 @@ func setDefaultHermesValues(h *Hermes) error {
 		Theme:         new(Default),
 		TextDirection: defaultTextDirection,
 		Product: Product{
-			Name:        "Hermes",
-			Copyright:   "Copyright © 2017 Hermes. All rights reserved.",
+			Name:        "Ahei",
+			Copyright:   "Copyright © 2018 Ahei. All rights reserved.",
 			TroubleText: "If you’re having trouble with the button '{ACTION}', copy and paste the URL below into your web browser.",
 		},
 	}
